@@ -25,12 +25,12 @@ Industrial operations face a costly trade-off between two traditional maintenanc
 3. **Machine Learning Engine:** Predicts continuous Remaining Useful Life ($RUL$) using an XGBoost Regressor trained on engine degradation trajectories.
 4. **Web Dashboard:** Streams live metrics, dynamically updates engine health visualizations, and triggers visual high-risk alerts when estimated $RUL \le 20$ cycles.
   
-## 🛠 Tech Stack
-
+## 🛠 Tech Stack  
+  
 * **Language:** Python 3.9+
-* **Data Processing:** Pandas, NumPy
-* **Machine Learning:** Scikit-Learn, XGBoost, Joblib
-* **Dashboard / Visualization:** Streamlit, Matplotlib
+* **Data Processing & Manipulation:** Pandas, NumPy
+* **Machine Learning & Serialization:** XGBoost, Joblib
+* **Web Dashboard:** Streamlit
   
 
 ## 📂 Project Structure
