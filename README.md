@@ -3,11 +3,13 @@ while replacing parts on a rigid calendar schedule wastes perfectly good equipme
 This project solves that problem by using Machine Learning to analyze live sensor data like: temperature and vibration.  
 So, you can predict exactly when an engine will fail before it actually breaks.  
 By converting complex data streams into clear web alerts, it allows operators to schedule repairs only when truly needed,  
-eliminating costly surprises and keeping operations running smoothly.  
+eliminating costly surprises and keeping operations running smoothly. 
+
 
   
 #  IoT Predictive Maintenance System
 
+<img width="800" height="450" alt="ScreenRecording2026-08-28163853-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9ed3f590-0df9-4861-b079-00dc909caf7c" />   
 An end-to-end industrial IoT system that ingests simulated jet engine sensor telemetry, predicts Remaining Useful Life (RUL) using an XGBoost regression model, and delivers real-time failure alerts via an interactive Streamlit dashboard.  
   
 ## Problem Overview
@@ -45,6 +47,5 @@ Industrial operations face a costly trade-off between two traditional maintenanc
   
 
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-28 154829" src="https://github.com/user-attachments/assets/3854c5c8-af5c-41ea-87db-6cd4bd33c815" />
-<img width="1920" height="1080" alt="Screenshot 2026-08-28 154906" src="https://github.com/user-attachments/assets/ed83c79d-9f4c-44b5-beb9-f7ede94f54e9" />
+
 
