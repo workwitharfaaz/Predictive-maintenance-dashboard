@@ -1,6 +1,9 @@
 Unplanned machine breakdowns cause catastrophic delays and cost industries billions every year, while replacing parts on a rigid calendar schedule wastes perfectly good equipment.  
+  
 This project solves that problem by using Machine Learning to analyze live sensor data like: temperature and vibration.  
+  
 So, you can predict exactly when an engine will fail before it actually breaks.  
+  
 By converting complex data streams into clear web alerts, it allows operators to schedule repairs only when truly needed, eliminating costly surprises and keeping operations running smoothly. 
 
 
