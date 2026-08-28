@@ -37,15 +37,16 @@ Industrial operations face a costly trade-off between two traditional maintenanc
   
 
 ## 📂 Project Structure
-├── train_FD001.txt  --->       # NASA C-MAPSS run-to-failure training dataset  
-├── test_FD001.txt   --->       # NASA C-MAPSS test sensor stream  
-├── RUL_FD001.txt    --->       # Ground-truth remaining useful life answer key  
-├── train_model.py   --->       # Data preprocessing and XGBoost training pipeline  
-├── app.py           --->       # Live Streamlit dashboard application  
-├── model.pkl        --->       # Serialized XGBoost model artifact  
-├── features.pkl     --->       # Saved feature schema array  
-└── README.md        --->       # Project documentation  
-  
+├── data/  
+│   ├── train_FD001.txt  ---> 	   # NASA C-MAPSS run-to-failure training dataset  
+│   ├── test_FD001.txt   --->  	  # NASA C-MAPSS test sensor stream  
+│   └── RUL_FD001.txt    --->  	  # Ground-truth remaining useful life answer key  
+├── requirements.txt     --->  	  # Streamlit was throwing error without this  
+├── train_model.ipynb    ---> 	   # Data preprocessing and XGBoost training pipeline  
+├── app.py               ---> 	   # Live Streamlit dashboard application  
+├── model.pkl            --->  	  # Serialized XGBoost model artifact  
+├── features.pkl         --->  	  # Saved feature schema array  
+└── README.md            --->  	  # Project documentation  
 
 
 
