@@ -9,7 +9,8 @@ eliminating costly surprises and keeping operations running smoothly.
   
 #  IoT Predictive Maintenance System
 
-<img width="800" height="450" alt="ScreenRecording2026-08-28163853-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9ed3f590-0df9-4861-b079-00dc909caf7c" />   
+<img width="800" height="450" alt="ScreenRecording2026-08-28163853-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9ed3f590-0df9-4861-b079-00dc909caf7c" />  
+  
 An end-to-end industrial IoT system that ingests simulated jet engine sensor telemetry, predicts Remaining Useful Life (RUL) using an XGBoost regression model, and delivers real-time failure alerts via an interactive Streamlit dashboard.  
   
 ## Problem Overview
